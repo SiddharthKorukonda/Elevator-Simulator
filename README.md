@@ -1,1 +1,3 @@
 # Elevator-Simulator
+
+The Elevator Simulator is an advanced and dynamic tool that models the behavior of elevators in a multi-story building with remarkable precision. By integrating sophisticated algorithms and probabilistic methods, it realistically simulates passenger requests and elevator operations, handling real-world scenarios with efficiency. Users can easily configure simulation parameters through an intuitive interface, while the simulator provides detailed debug information at each step, showcasing the internal workings and ensuring easy troubleshooting. This simulator excels in accurately modeling complex elevator operations, making it an invaluable tool for analysis and optimization in any high-rise building environment
